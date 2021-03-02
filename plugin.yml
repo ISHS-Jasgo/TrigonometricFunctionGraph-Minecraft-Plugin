@@ -1,0 +1,7 @@
+name: TrigonometricFunctionGraph
+version: 1.0
+main: code.jasgo.graph.Main
+
+commands:
+  dg:
+    description: "/dg help"
